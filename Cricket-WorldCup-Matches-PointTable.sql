@@ -1,4 +1,4 @@
-/* Formatted on 10/24/2023 1:12:12 PM (QP5 v5.381) */
+/* Formatted on 10/24/2023 2:07:34 PM (QP5 v5.381) */
 CREATE TABLE OFSBASEL.ICC_WORLD_CUP
 (
     MATCH_NO    INTEGER,
